@@ -1,7 +1,7 @@
 # OpenMarketplace
 Cloud-based marketplace platform for physical and digital products and services
 
-# Features
+## Features
 * Marketplace owner registration
 * Multi seller/vendor support
 * Seller approval and moderation
@@ -17,11 +17,11 @@ Cloud-based marketplace platform for physical and digital products and services
 * Theme selection
 * Modular architecture to support add-ons
 
-# Technologies
+## Technologies
 * Symfony 3
 * MongoDB
 * ReactJS for seller dashboard
 * AngularJS
 
-# Contribution
+## Contribution
 Please use send your comments/suggestions on how to improve the system. Contributions are welcomed.
